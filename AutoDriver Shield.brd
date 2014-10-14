@@ -3350,52 +3350,52 @@ Please make sure your boards conform to these design rules.</description>
 <element name="STANDOFF2" library="SparkFun" package="STAND-OFF" value="STAND-OFF" x="71.12" y="2.54" locked="yes" rot="R90"/>
 <element name="STANDOFF3" library="SparkFun" package="STAND-OFF" value="STAND-OFF" x="2.54" y="2.54" locked="yes" rot="R90"/>
 <element name="STANDOFF4" library="SparkFun" package="STAND-OFF" value="STAND-OFF" x="2.54" y="46.99" locked="yes" rot="R90"/>
-<element name="C4" library="resistor" package="C0805K" value="0.1" x="67.31" y="19.05" smashed="yes" rot="R90">
+<element name="C4" library="resistor" package="C0805K" value="0.1uf" x="67.31" y="19.05" smashed="yes" rot="R90">
 <attribute name="NAME" x="66.51" y="21.2875" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
 <element name="R4" library="rcl" package="R1206" value="100" x="60.96" y="10.795" smashed="yes">
 <attribute name="NAME" x="60.325" y="12.065" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
-<element name="U4" library="maxim" package="SO14" value="MAX489CSD" x="59.69" y="19.05" smashed="yes" rot="R180">
+<element name="U4" library="maxim" package="SO14" value="MAX14786E" x="59.69" y="19.05" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="34C3923" x="68.58" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="MAX489CSD" x="68.58" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="MAXIM" x="68.58" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="9724559" x="68.58" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="53.5305" y="19.939" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="C2" library="resistor" package="C0805K" value="0.1" x="36.83" y="19.05" smashed="yes" rot="R90">
+<element name="C2" library="resistor" package="C0805K" value="0.1uf" x="36.83" y="19.05" smashed="yes" rot="R90">
 <attribute name="NAME" x="36.03" y="21.2875" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
 <element name="R2" library="rcl" package="R1206" value="100" x="36.83" y="13.97" smashed="yes" rot="R90">
 <attribute name="NAME" x="38.4175" y="14.9225" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="U2" library="maxim" package="SO14" value="MAX489CSD" x="29.21" y="19.05" smashed="yes" rot="R180">
+<element name="U2" library="maxim" package="SO14" value="MAX14786E" x="29.21" y="19.05" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="34C3923" x="38.1" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="MAX489CSD" x="38.1" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="MAXIM" x="38.1" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="9724559" x="38.1" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="23.114" y="20.1295" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="C3" library="resistor" package="C0805K" value="0.1" x="52.07" y="19.05" smashed="yes" rot="R90">
+<element name="C3" library="resistor" package="C0805K" value="0.1uf" x="52.07" y="19.05" smashed="yes" rot="R90">
 <attribute name="NAME" x="51.27" y="21.2875" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
 <element name="R3" library="rcl" package="R1206" value="100" x="52.07" y="13.97" smashed="yes" rot="R90">
 <attribute name="NAME" x="53.6575" y="14.9225" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="U3" library="maxim" package="SO14" value="MAX489CSD" x="44.45" y="19.05" smashed="yes" rot="R180">
+<element name="U3" library="maxim" package="SO14" value="MAX14786E" x="44.45" y="19.05" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="34C3923" x="53.34" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="MAX489CSD" x="53.34" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="MAXIM" x="53.34" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="9724559" x="53.34" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="38.354" y="20.1295" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="C1" library="resistor" package="C0805K" value="0.1" x="21.59" y="19.05" smashed="yes" rot="R90">
+<element name="C1" library="resistor" package="C0805K" value="0.1uf" x="21.59" y="19.05" smashed="yes" rot="R90">
 <attribute name="NAME" x="20.79" y="21.2875" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
 <element name="R1" library="rcl" package="R1206" value="100" x="21.59" y="13.97" smashed="yes" rot="R90">
 <attribute name="NAME" x="23.1775" y="14.9225" size="1.016" layer="25" font="vector" ratio="10" rot="R270"/>
 </element>
-<element name="U1" library="maxim" package="SO14" value="MAX489CSD" x="13.97" y="19.05" smashed="yes" rot="R180">
+<element name="U1" library="maxim" package="SO14" value="MAX14786E" x="13.97" y="19.05" smashed="yes" rot="R180">
 <attribute name="OC_NEWARK" value="34C3923" x="22.86" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="MAX489CSD" x="22.86" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MF" value="MAXIM" x="22.86" y="15.24" size="1.778" layer="27" rot="R180" display="off"/>
@@ -3426,7 +3426,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="C7" library="resistor" package="C1206K" value="1uf" x="16.891" y="31.369" locked="yes" smashed="yes" rot="R270">
 <attribute name="NAME" x="17.97675" y="28.78225" size="1.016" layer="25" font="vector" ratio="10" rot="R180"/>
 </element>
-<element name="U6" library="74xx-little-us" package="SOT23-5" value="74AHC1G14DBV" x="58.42" y="28.575" smashed="yes" rot="R270">
+<element name="U6" library="74xx-little-us" package="SOT23-5" value="74AHC1G14" x="58.42" y="28.575" smashed="yes" rot="R270">
 <attribute name="NAME" x="57.5945" y="25.5905" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
 <element name="J4" library="con-lstb" package="MA03-1" value="" x="66.04" y="40.64" locked="yes" smashed="yes" rot="MR0">
@@ -3518,7 +3518,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="C11" library="resistor" package="C0805K" value="4.7uF" x="26.57475" y="27.94" locked="yes" smashed="yes" rot="R90">
 <attribute name="NAME" x="28.067" y="25.0825" size="1.016" layer="25" font="vector" ratio="10" rot="R180"/>
 </element>
-<element name="C13" library="resistor" package="C0805K" value="0.1" x="58.42" y="33.02" smashed="yes">
+<element name="C13" library="resistor" package="C0805K" value="0.1uf" x="58.42" y="33.02" smashed="yes">
 <attribute name="NAME" x="57.1025" y="34.2125" size="1.016" layer="25" font="vector" ratio="10"/>
 </element>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="70.485" y="8.255" rot="R90"/>
@@ -3795,7 +3795,8 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="19.05" y1="20.6375" x2="16.8275" y2="20.6375" width="0.254" layer="1"/>
 <wire x1="16.8275" y1="20.6375" x2="16.51" y2="20.955" width="0.254" layer="1"/>
 <via x="19.685" y="22.225" extent="1-16" drill="0.3302"/>
-<wire x1="16.51" y1="20.955" x2="16.51" y2="22.1234" width="0" layer="19" extent="1-1"/>
+<wire x1="16.51" y1="20.955" x2="16.51" y2="21.9075" width="0.254" layer="1"/>
+<wire x1="16.51" y1="21.9075" x2="16.51" y2="22.1234" width="0" layer="19" extent="1-1"/>
 <wire x1="12.7" y1="22.1234" x2="12.7" y2="22.225" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="STCK">
