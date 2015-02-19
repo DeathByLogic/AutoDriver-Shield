@@ -16,8 +16,8 @@
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
@@ -122,7 +122,7 @@
 <wire x1="73.66" y1="0" x2="73.66" y2="49.53" width="0" layer="20"/>
 <wire x1="73.66" y1="49.53" x2="0" y2="49.53" width="0" layer="20"/>
 <wire x1="0" y1="49.53" x2="0" y2="0" width="0" layer="20"/>
-<text x="11.43" y="43.4975" size="1.778" layer="21" font="vector" ratio="10">AutoDriver SPI over RS-485 Shield v2
+<text x="11.43" y="43.4975" size="1.778" layer="21" font="vector" ratio="10">AutoDriver SPI over RS-485 Shield v2.2
 deathbylogic.com</text>
 <text x="28.575" y="7.3025" size="1.27" layer="21" font="vector" ratio="10">MISO</text>
 <text x="59.055" y="7.3025" size="1.27" layer="21" font="vector" ratio="10">RST/</text>
@@ -224,9 +224,9 @@ deathbylogic.com</text>
 <wire x1="66.9925" y1="36.5125" x2="67.31" y2="36.83" width="0.254" layer="21"/>
 <wire x1="67.31" y1="36.83" x2="67.6275" y2="36.83" width="0.254" layer="21"/>
 <text x="66.3575" y="34.29" size="1.27" layer="21" font="vector" ratio="10" rot="SR90" align="bottom-center">5V Fan</text>
-<text x="71.12" y="5.715" size="1.27" layer="16" font="vector" ratio="15" rot="MR90">9/12/2014</text>
+<text x="71.12" y="5.715" size="1.27" layer="16" font="vector" ratio="15" rot="MR90">2/18/2015</text>
 <text x="71.755" y="11.43" size="1.016" layer="21" font="vector" rot="R90">(C) 2014 D. Wassenberg
-CC BY-NC-SA 4.0</text>
+CC BY-SA 4.0</text>
 </plain>
 <libraries>
 <library name="con-lstb">

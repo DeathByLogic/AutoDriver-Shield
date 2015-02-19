@@ -15807,26 +15807,26 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="P+2" library="supply1" deviceset="VCC" device="" value="VCC"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
-<part name="C4" library="resistor" deviceset="C-US" device="C0805K" value="0.1"/>
+<part name="C4" library="resistor" deviceset="C-US" device="C0805K" value="0.1uf"/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="R4" library="rcl" deviceset="R-US_" device="R1206" value="100"/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
-<part name="U4" library="maxim" deviceset="MAX489CSD" device=""/>
-<part name="C2" library="resistor" deviceset="C-US" device="C0805K" value="0.1"/>
+<part name="U4" library="maxim" deviceset="MAX489CSD" device="" value="MAX14786E"/>
+<part name="C2" library="resistor" deviceset="C-US" device="C0805K" value="0.1uf"/>
 <part name="GND" library="supply1" deviceset="GND" device=""/>
 <part name="R2" library="rcl" deviceset="R-US_" device="R1206" value="100"/>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
-<part name="U2" library="maxim" deviceset="MAX489CSD" device=""/>
-<part name="C3" library="resistor" deviceset="C-US" device="C0805K" value="0.1"/>
+<part name="U2" library="maxim" deviceset="MAX489CSD" device="" value="MAX14786E"/>
+<part name="C3" library="resistor" deviceset="C-US" device="C0805K" value="0.1uf"/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="R3" library="rcl" deviceset="R-US_" device="R1206" value="100"/>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
-<part name="U3" library="maxim" deviceset="MAX489CSD" device=""/>
-<part name="C1" library="resistor" deviceset="C-US" device="C0805K" value="0.1"/>
+<part name="U3" library="maxim" deviceset="MAX489CSD" device="" value="MAX14786E"/>
+<part name="C1" library="resistor" deviceset="C-US" device="C0805K" value="0.1uf"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="R1" library="rcl" deviceset="R-US_" device="R1206" value="100"/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
-<part name="U1" library="maxim" deviceset="MAX489CSD" device=""/>
+<part name="U1" library="maxim" deviceset="MAX489CSD" device="" value="MAX14786E"/>
 <part name="U$2" library="custom" deviceset="PENGUIN_LOGO" device="SILKSCREEN" value="PENGUIN_LOGOSILKSCREEN"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
@@ -15842,7 +15842,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="D1" library="led" deviceset="LED" device="CHIPLED_0805"/>
 <part name="FRAME1" library="frames" deviceset="FRAME_A_L" device=""/>
 <part name="C7" library="resistor" deviceset="C-US" device="C1206K" value="1uf"/>
-<part name="U6" library="74xx-little-us" deviceset="74*1G14" device="DBV" technology="AHC"/>
+<part name="U6" library="74xx-little-us" deviceset="74*1G14" device="DBV" technology="AHC" value="74AHC1G14"/>
 <part name="J4" library="con-lstb" deviceset="MA03-1" device=""/>
 <part name="J3" library="con-lstb" deviceset="MA03-1" device=""/>
 <part name="J1" library="con-lstb" deviceset="MA05-1" device=""/>
@@ -15873,7 +15873,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="R8" library="resistor" deviceset="R-US_" device="R0402" value="100K"/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="C11" library="resistor" deviceset="C-US" device="C0805K" value="4.7uF"/>
-<part name="C13" library="resistor" deviceset="C-US" device="C0805K" value="0.1"/>
+<part name="C13" library="resistor" deviceset="C-US" device="C0805K" value="0.1uf"/>
 <part name="GND22" library="supply1" deviceset="GND" device=""/>
 <part name="P+9" library="supply1" deviceset="VCC" device=""/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="M"/>
@@ -15884,9 +15884,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 <plain>
 <text x="264.922" y="6.604" size="3.81" layer="94">2</text>
 <text x="174.244" y="24.638" size="2.1844" layer="94" font="vector">Released under the Creative Commons
-Attribution NonCommercial Share-Alike 4.0 License
-http://creativecommons.org/licenses/by-nc-sa/4.0</text>
-<text x="174.498" y="16.002" size="1.9304" layer="94" font="vector">http://www.deathbylogic.com/category/projects/floating_lantern</text>
+Attribution Share-Alike 4.0 License
+http://creativecommons.org/licenses/by-sa/4.0</text>
+<text x="174.498" y="16.002" size="1.778" layer="94" font="vector">http://www.deathbylogic.com/category/projects/large_scale_delta</text>
 <text x="261.62" y="93.98" size="1.778" layer="97" align="center">Fan
 Connector</text>
 </plain>
